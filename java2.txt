@@ -1,1 +1,2 @@
 add fun2
+add fun1
